@@ -1,0 +1,2 @@
+# NewsAPI
+text content analysis 
